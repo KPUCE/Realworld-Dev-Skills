@@ -29,6 +29,7 @@ Real World Software Development Skills for CE Student
 ## Github에서 협업하는 방법: Github Issues, Project, Pull-Request, Git Flow 
 
  * [Github로 그룹 프로젝트 하는 방법, 코딩하는 누나 동영상] [https://www.youtube.com/watch?v=tkkbYCajCjM&list=WL&index=2]
+ * [Issues and Projects in Github] [https://www.youtube.com/watch?v=fFrq28RY1SQ]
  * [Git Flow, 코딩애플] [https://www.youtube.com/watch?v=EV3FZ3cWBp8&t=269s]
 
 ## Firebase를 활용한 모바일 앱 개발
