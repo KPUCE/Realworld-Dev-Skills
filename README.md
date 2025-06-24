@@ -10,6 +10,7 @@ Real World Software Development Skills for CE Students
   * Firebase를 활용한 모바일 앱 개발
   * 소프트웨어 개발 툴 습득
     * UNIX의 Tmux 사용법, VScode 사용법, Markdown 언어 사용법, Yaml 언어 사용법
+  * 가상화 플랫폼: Docker
 
 ## Agile 개발방법론(Scrum Framework)
 
@@ -49,6 +50,9 @@ Real World Software Development Skills for CE Students
  * [Markdown 언어, 드림코딩] [https://www.youtube.com/watch?v=kMEb_BzyUqk]
  * [Markdown 사용법, 아보느] [https://www.youtube.com/watch?v=dUbp9wAy178&t=24s]
  * [YAML 튜토리얼, TechWorld with Nana] [https://www.youtube.com/watch?v=1uFVr15xDGg]
+
+## 가상화 플랫폼 (Docker)
+  * [도커를 한방에 정리, 드림코딩] [https://www.youtube.com/watch?v=LXJhA3VWXFA]
    
 ## Guthub Pages를 이용한 개발자 Portfolio 관리
  * [Github Profile 페이지 꾸미기, 드림코딩] [https://www.youtube.com/watch?v=w9DfC2BHGPA&t=8s]
