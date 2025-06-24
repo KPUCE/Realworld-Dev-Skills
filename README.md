@@ -54,6 +54,7 @@ Real World Software Development Skills for CE Students
 ## 가상화 플랫폼 (Docker)
   * [도커를 한방에 정리, 드림코딩] [https://www.youtube.com/watch?v=LXJhA3VWXFA]
   * [비전공자도 알수 있는 Docker 강의, 박재성] [https://www.youtube.com/watch?v=OPmSQCfzl1Q&list=PLtUgHNmvcs6rS5aNCRIZtVcyk3gRX2iOd]
+  * [Docker Crash Course for Absolute Beginners, Tech World with Nana] [https://www.youtube.com/watch?v=pg19Z8LL06w]
    
 ## Guthub Pages를 이용한 개발자 Portfolio 관리
  * [Github Profile 페이지 꾸미기, 드림코딩] [https://www.youtube.com/watch?v=w9DfC2BHGPA&t=8s]
