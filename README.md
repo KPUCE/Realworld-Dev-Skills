@@ -2,7 +2,7 @@
 Real World Software Development Skills for CE Students
 
 ## 학습 목표
-  * Agile 개발 방법론 습득
+  * Agile 개발 방법론 및 Git/Github 사용법
     * Scrum Framework
     * Git을 이용한 소스버전관리 및 Github을 이용한 협업
     * Github Project를 활용한 프로젝트 관리
