@@ -1,7 +1,7 @@
 # Realworld-Dev-Skills
 Real World Software Development Skills for CE Student 
 
-## 교육 목표
+## 학습 목표
   * Agile 개발 방법론 습득
     * Scrum Framework
     * Git을 이용한 소스버전관리 및 Github을 이용한 협업
