@@ -1,5 +1,5 @@
 # Realworld-Dev-Skills
-Real World Software Development Skills for CE Student 
+Real World Software Development Skills for CE Students
 
 ## 학습 목표
   * Agile 개발 방법론 습득
