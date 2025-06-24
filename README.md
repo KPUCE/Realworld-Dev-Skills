@@ -24,7 +24,6 @@ Real World Software Development Skills for CE Student
  * [Git, Github 사용법1, 코딩 알려주는 누나] [https://www.youtube.com/watch?v=lelVripbt2M&t=612s]
  * [Git. Github 사용법2, 코딩 알려주는 누나] [https://www.youtube.com/watch?v=cwC8t9dno2s]
  * [허준영 교수 강의자료] [https://jyheo.github.io/github-lecture/]
- * [지옥에서 온 문서관리자, 깃&깃허브 입문 저자 동영상] [https://opentutorials.org/module/3733]
  * [마이클 카우프만 저, 최재웅 외 역, 깃허브로 완성하는 데브옵스 가속화, 에이콘, 2024] [http://www.acornpub.co.kr/book/devops-github]
  
 ## Github에서 협업하는 방법: Github Issues, Project, Pull-Request, Git Flow 
