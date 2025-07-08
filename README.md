@@ -16,6 +16,7 @@ Real World Software Development Skills for CE Students
 
  * [Scrum 강의자료] [https://github.com/2024TUKCOMSP/Overview/blob/main/ScrumFramework.pdf]
  * [Scrum Overview 동영상] [https://www.youtube.com/watch?v=9TycLR0TqFA]
+ * [20분안에 Scrum] [https://www.youtube.com/watch?v=SWDhGSZNF9M]
  * [애자일 소프트웨어 개발, SKPlanet TAcademy] [https://www.youtube.com/watch?v=NoMznX8S9pU&list=PL9mhQYIlKEhf3JxWcaim5anL0_pVFRsZT]
  * [스크럼 강의 동영상 모음] [https://www.youtube.com/watch?v=2ukuT00ubuk&list=PLEzRFBCPYeykK--XlWANwKcvhf23DyS3G&index=1&t=8s]
    
